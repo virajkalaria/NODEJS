@@ -7,5 +7,5 @@ var mul=(a,b)=>{
 var div=(a,b)=>{
     return a/b;
 }
-var name= "RKU";
+var name= "viraj";
 module.exports = {sum,mul,div,name};
